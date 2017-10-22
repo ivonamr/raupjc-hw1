@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "raupjc-hw1", "raupjc-hw1.exe", "{5B8CB2EB-B8E5-47BE-90CA-DBA6797A824F}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\bin\Debug\raupjc-hw1.exe
+		RemoteMachine = IVONA
+		StartingDirectory = C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8CB2EB-B8E5-47BE-90CA-DBA6797A824F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D392664-6875-4FF4-9B3C-14599E003938}
+	EndGlobalSection
+EndGlobal

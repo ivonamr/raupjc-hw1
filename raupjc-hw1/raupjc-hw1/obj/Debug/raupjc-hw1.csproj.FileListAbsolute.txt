@@ -1,0 +1,9 @@
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\bin\Debug\raupjc-hw1.exe.config
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\bin\Debug\raupjc-hw1.exe
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\bin\Debug\raupjc-hw1.pdb
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\obj\Debug\raupjc-hw1.csproj.CoreCompileInputs.cache
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\obj\Debug\raupjc-hw1.exe
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\obj\Debug\raupjc-hw1.pdb
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\obj\Debug\raupjc-hw1.csprojResolveAssemblyReference.cache
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\bin\Debug\raupjc-hw1.exe.CodeAnalysisLog.xml
+C:\Users\Ivy\C#\raupjc-hw1\raupjc-hw1\bin\Debug\raupjc-hw1.exe.lastcodeanalysissucceeded
